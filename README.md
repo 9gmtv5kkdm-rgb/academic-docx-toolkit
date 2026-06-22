@@ -1,4 +1,4 @@
-# 学术论文DOCX排版工具包 / Academic DOCX Toolkit
+﻿# 学术论文DOCX排版工具包 / Academic DOCX Toolkit
 
 ## 中文
 
@@ -97,3 +97,7 @@ academic-docx-toolkit/
     ├── journal-templates.md          # Journal/thesis page templates
     └── safety-patterns.md            # Batch operation safety patterns
 ```
+
+---
+
+作者：刘楠
