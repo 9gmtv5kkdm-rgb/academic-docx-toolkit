@@ -1,0 +1,11 @@
+# 隐私/开发残件，禁止入库
+usage-log.md
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+*.log
+*.stub-disabled
+dist/
+build/
+.venv/
